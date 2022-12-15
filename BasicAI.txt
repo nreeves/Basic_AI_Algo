@@ -1,0 +1,1 @@
+Note: This is a hypothetical Algorithm that can be dynamically used for an AI, it's simple Python code that I wrote to understand AI algorithms.
